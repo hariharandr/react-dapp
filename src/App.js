@@ -75,7 +75,6 @@ function App() {
   };
 
   useEffect(() => {
-    //Call API every 5 seconds
     const interval = setInterval(() => {
       if (user) {
         fetch({ chain: value });
