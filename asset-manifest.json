@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https://github.com/hariharandr/react-dapp/static/css/main.a485b78e.css",
-    "main.js": "/https://github.com/hariharandr/react-dapp/static/js/main.acb90195.js",
-    "index.html": "/https://github.com/hariharandr/react-dapp/index.html",
-    "main.a485b78e.css.map": "/https://github.com/hariharandr/react-dapp/static/css/main.a485b78e.css.map",
-    "main.acb90195.js.map": "/https://github.com/hariharandr/react-dapp/static/js/main.acb90195.js.map"
+    "main.css": "/https://github.com/hariharandr/react-dappproject/static/css/main.a485b78e.css",
+    "main.js": "/https://github.com/hariharandr/react-dappproject/static/js/main.0343c7a0.js",
+    "index.html": "/https://github.com/hariharandr/react-dappproject/index.html",
+    "main.a485b78e.css.map": "/https://github.com/hariharandr/react-dappproject/static/css/main.a485b78e.css.map",
+    "main.0343c7a0.js.map": "/https://github.com/hariharandr/react-dappproject/static/js/main.0343c7a0.js.map"
   },
   "entrypoints": [
     "static/css/main.a485b78e.css",
-    "static/js/main.acb90195.js"
+    "static/js/main.0343c7a0.js"
   ]
 }
